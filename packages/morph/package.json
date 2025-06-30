@@ -29,7 +29,7 @@
   "dependencies": {
     "@abaplint/cli": "^2.106.3",
     "@abaplint/runtime": "^2.8.19",
-    "@abaplint/transpiler-cli": "^2.8.19",
+    "@abaplint/transpiler-cli": "^2.10.59",
     "@types/chai": "^4.3.14",
     "@types/mocha": "^10.0.6",
     "@types/node": "^20.11.30",
